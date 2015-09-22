@@ -1,4 +1,5 @@
-# Ethereum Contracts
+# Ethereum Contracts +[![Join the chat at https://gitter.im/gdg-x/ethereum-contracts](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/gdg-x/ethereum-contracts?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
++
 
 This repository contains smart contracts that run on Ethereum (ethereum.org)
 
